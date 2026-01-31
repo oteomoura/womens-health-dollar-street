@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local / cached
+topic_images/
+
+# Optional: uncomment to avoid tracking large data (download from Kaggle instead)
+# images_v2.csv
